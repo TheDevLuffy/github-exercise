@@ -1,2 +1,3 @@
 # github-exercise
-For Github Exercise
+
+깃허브 사용법 연습하기.
